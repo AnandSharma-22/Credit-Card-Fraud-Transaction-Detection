@@ -30,4 +30,4 @@ Class-Imbalance • The Random Forest model works better than Decision Trees. In
 • The class imbalance problem can be solved by various techniques, Oversampling is one of the techniques used to tackle this problem.
 
 We will use the SMOT (Synthetic Minority Oversampling Technique, or SMOTE).It is the method of data augmentation for the minority class.
-We can see that our model performed much better than the previous Random Forest classifier without oversampling. We have applied the techniques to address the class imbalance issues and achieved an accuracy of more than 99%
+We can see that our model performed much better than the previous Random Forest classifier without oversampling. We have applied the techniques to address the class imbalance issues and achieved an accuracy of more than 99%.
